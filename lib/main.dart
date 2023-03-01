@@ -77,7 +77,7 @@ class _MyHomePageState extends State<MyHomePage> {
       }
     });
   }
-  // Perubahan
+  // dkwjhdjw
   bool prima(int angka) {
     if (angka <= 1) {
       return false;
